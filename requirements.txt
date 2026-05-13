@@ -1,0 +1,9 @@
+opencv-python
+tensorflow
+numpy
+scikit-learn
+imbalanced-learn
+streamlit
+pyswarm
+mtcnn
+matplotlib

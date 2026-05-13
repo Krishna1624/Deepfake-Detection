@@ -1,0 +1,6 @@
+  -- Detailed Metrics ------------------------
+  Accuracy    : 76.25%
+  Sensitivity : 65.00%  (True Positive Rate)
+  Specificity : 87.50%  (True Negative Rate)
+  F1 Score    : 73.24%
+  Confusion Matrix: T.Pos=26, T.Neg=35, F.Pos=5, F.Neg=14
