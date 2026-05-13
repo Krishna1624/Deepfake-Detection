@@ -166,8 +166,6 @@ The model achieved strong specificity performance, reducing false-positive class
 
 ---
 
-## 🗂️ Project Structure
-
 ```text
 projectfinal/
 ├── adapters/
@@ -196,7 +194,11 @@ projectfinal/
 │   ├── smote.png
 │   └── smote_visualization.png
 │
-├── dataset
+├── dataset/
+│   ├── train/
+│   ├── validation/
+│   ├── test/
+│   └── metadata/
 │
 ├── docs/
 │   ├── model-selection-playbook.md
@@ -258,6 +260,7 @@ projectfinal/
 ├── temp_video.mp4
 ├── test_pipeline.py
 ├── train.py
+├── verify_labels.py
 ├── visualize_pso.py
 ├── visualize_smote.py
 └── yolov8n.pt
